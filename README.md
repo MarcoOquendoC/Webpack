@@ -19,23 +19,7 @@ To get a local copy up and running follow these simple steps.
   - cd Webpack
 - **Type the following lists of commands and press ENTER after each command:**
   - *Basic Setup*
-    - npm init -y
-    - npm install webpack webpack-cli --save-dev
-    - npm install --save lodash
-    - npx webpack
-    - npx webpack --config webpack.config.js
-    - npm run build
-
-  - *Setting up HtmlWebpackPlugin*
-    - npm install --save-dev html-webpack-plugin
-    - npm run build
-
-  - *Add CSS*
-    - npm install --save-dev style-loader css-loader
-    - npm run build
-
-  - *Setup local dev server*
-    - npm install --save-dev webpack-dev-server
+    - npm install --save-dev
 
   - *Setup linters*
     - npm install --save-dev hint@7.x

@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple steps.
 - **Webpack:** used as a bundle to compile JavaScript modules.
 
 ## 🌎 Live Demo:
-- [Webpack](https://marcooquendoc.github.io/Webpack/)
+- [Webpack](https://marcooquendoc.github.io/Webpack/dist/)
 
 ## Authors 
 ### 👤 Marco Oquendo
